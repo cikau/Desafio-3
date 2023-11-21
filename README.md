@@ -1,6 +1,6 @@
 # DESAFIO 3 - FORMAÇÃO HTML5 WEB DEVELOPER DIO
 
-O presente documento possui O DESAFIO 3, realizado durante o curso "Formação HTML5 Web Developer da DIO", utilizando-se a tecnologia HTML5. A atividade proposta consistiu na construção de um website completo, baseado no Wikipedia, empregando o que foi aprendido durante o curso.  
+O presente documento possui O DESAFIO 3, realizado durante o curso "Formação HTML5 Web Developer da DIO", utilizando-se a tecnologia HTML5. A atividade proposta consistiu na construção de um website completo, como o Wikipedia com melhorias, empregando o que foi aprendido durante o curso.  
 
 ## 🦾 TECNOLOGIAS UTILIZADAS
 
